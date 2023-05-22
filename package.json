@@ -1,0 +1,19 @@
+{
+  "name": "cadastrousuario1",
+  "version": "1.0.0",
+  "description": "Cadastros de Usuarios basico",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start:run": "nodemon /app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Projeto_CadastroBasico"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
