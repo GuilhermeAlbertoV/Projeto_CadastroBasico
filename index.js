@@ -1,6 +1,7 @@
 import Express from "express";
 import conexao from "./DB/conexao.js";
 import rotas from "./rotas.js";
+import table from "./DB/tabela.js";
 let server = Express();
 let port = 8080;
 class App {
